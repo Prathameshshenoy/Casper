@@ -4,8 +4,8 @@ Casper is an tool that is designed to perform analytics on equity market live da
 
 Screenshots of the website are uploaded below: (the data shown on the website is confidential hence the link cannot be shared)
 ![Screenshot 2024-10-27 at 1 34 14 PM](https://github.com/user-attachments/assets/cd68686a-1ba2-402e-a14a-9f877a18f522)
-![image](https://github.com/user-attachments/assets/0bbd537d-2238-4e9c-80d0-e5d7e07a223c)
-![image](https://github.com/user-attachments/assets/1c1ac161-392e-4f04-b9b3-642e400f1459)
+![image](https://github.com/user-attachments/assets/3aa5c995-14e8-4a54-bbf9-1d75ca96363a)
+![image](https://github.com/user-attachments/assets/c47ff238-4de7-4406-9f9b-421ec286bc4c)
 ![Screenshot 2024-10-25 at 6 58 34 PM](https://github.com/user-attachments/assets/f657a688-a6a7-4e2c-bde2-7a1f421df0ef)
 ![Screenshot 2024-10-27 at 1 36 38 PM](https://github.com/user-attachments/assets/f6d42b89-cf85-46fe-91f7-f6b4770fca0e)
 ![image](https://github.com/user-attachments/assets/50e66908-9b42-4c11-b1a2-59d28c6cefe0)
