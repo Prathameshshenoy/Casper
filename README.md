@@ -8,7 +8,7 @@ Screenshots of the website are uploaded below: (the data shown on the website is
 <img width="1456" alt="Screenshot 2025-02-03 at 9 53 28 PM" src="https://github.com/user-attachments/assets/517fda7a-0c1c-4af5-8467-42803558f72d" />
 <img width="1464" alt="Screenshot 2025-02-03 at 9 53 54 PM" src="https://github.com/user-attachments/assets/1b7e927a-fb6b-4178-a4c9-a6384f2c2639" />
 <img width="1455" alt="Screenshot 2025-02-03 at 9 55 41 PM" src="https://github.com/user-attachments/assets/617f0dc8-15f3-4246-b1b4-3de239f61ce2" />
-<img width="1448" alt="Screenshot 2025-02-03 at 9 56 07 PM" src="https://github.com/user-attachments/assets/284685f5-a50b-48d5-9aa9-c86e5054a274" />
+<img width="1444" alt="Screenshot 2025-02-03 at 10 00 12 PM" src="https://github.com/user-attachments/assets/365aacb9-0b63-425b-a9e7-6a4b0bea68fd" />
 <img width="1447" alt="Screenshot 2025-02-03 at 9 57 18 PM" src="https://github.com/user-attachments/assets/4542e60f-c02f-4c09-8d5d-f5261ea90a8b" />
 ![Screenshot 2024-10-25 at 6 59 08 PM](https://github.com/user-attachments/assets/e3b20c1e-c100-40bd-b925-7dde72d6b527)
 ![Screenshot 2024-10-25 at 7 00 10 PM](https://github.com/user-attachments/assets/3b533c9c-4e8e-4f27-93e6-3117ab649ffb)
