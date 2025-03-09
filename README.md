@@ -1,7 +1,8 @@
 # Casper
 
 Casper is a tool that is designed to perform analytics on equity market live data and listed company financial information (both daily and historical) to detect trends, price patterns and momentum such that the output is highly useful in predicting stock price movements. Casper operates with live market data and can handle analyses of large volumes of data in seconds so that it can assist fund managers in making timely decisions and create an edge for themselves. 
-This project was done by using Python, html, css & js along with Flask. 
+This project was done by using Python, html, css & js along with Flask. Mysql is used for data storage.
+The platform currently has 3 main features. More features are underway.
 
 Screenshots of the website are uploaded below: (the data shown on the website is confidential hence the wesbite link cannot be shared)
 <img width="1448" alt="Screenshot 2025-02-03 at 9 58 04 PM" src="https://github.com/user-attachments/assets/557696dd-57a1-43bc-b649-e75545cee672" />
