@@ -16,10 +16,10 @@
 
 ## 🛠️ **Tech Stack**
 
-- **Backend:** Python, Flask
-- **Frontend:** HTML, CSS, JavaScript
-- **Database:** MySQL
-- **Hosting:** AWS EC2
+- **Backend:** Python, FastAPI
+- **Frontend:** React.js
+- **Database:** PostgreSQL
+- **Hosting:** AWS EC2, Docker
 
 ---
 
