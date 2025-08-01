@@ -1,4 +1,4 @@
-**Casper** is a real-time analytics platform for equity market data. It analyzes live and historical stock information to detect trends, price patterns, and momentum, helping fund managers make faster, data-driven decisions.
+**Casper** is a real-time analytics platform made for Yellowcopper LLP to process equity market data. It analyzes live and historical stock information to detect trends, price patterns, and momentum, helping fund managers make faster, data-driven decisions.
 
 > 📌 **Note:** This project handles confidential financial data — so the live site and full code cannot be shared publicly. Screenshots are included below to showcase the tool.
 
