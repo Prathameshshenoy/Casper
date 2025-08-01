@@ -8,18 +8,18 @@
 
 ### 🔍 Market Momentum & Volatility Tracking
 - Detects live shifts in stock momentum.
-- Analyzes directional trends and volatility across equities and indices.
+- Analyzes directional trends and volatility across equities.
 
 ### 📊 Performance Insights & Breakout Detection
 - Flags companies with strong quarterly metrics or technical breakouts.
-- Uses historical baselines to surface unusual performance.
+- Uses historical baselines to surface outlier performance patterns.
 
 ### 📈 Stock Diagnostics & Attribution
 - Breaks down stock movement into technical and fundamental drivers.
 - Highlights key attributes behind performance trends.
 
 ### 📰 Real-Time News & Event Monitoring
-- Tracks corporate news, earnings, and regulatory filings.
+- Tracks corporate news, earnings, and regulatory filings in real time.
 - Connects market moves to relevant headlines and events.
 
 ---
