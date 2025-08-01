@@ -1,17 +1,28 @@
-**Casper** is an internal analytics tool developed for Yellowcopper LLP to process live and historical equity market data. It identifies trends, price patterns, and momentum shifts, enabling fund managers to make faster, data-driven investment decisions.
+**Casper** is a private internal analytics platform built for Yellowcopper LLP. It processes live and historical equity market data to deliver fast, actionable insights. By combining price momentum, performance diagnostics, and real-time news mapping, Casper helps fund managers make sharper, data-driven investment decisions.
 
-> 📌 **Note:** This project handles confidential financial data — so the live site and full code cannot be shared publicly. Screenshots are included below to showcase the tool.
-
----
-
-## 🚀 **Core Features**
-
-- 📈 **Live Data Analysis:** Scrapes and processes real-time stock prices.
-- 🗂️ **Historical Trends:** Analyzes years of company financials to find patterns.
-- 🔔 **Alerts & Visualizations:** Displays signals to assist trading decisions.
+> ⚠️ **Note:** This repository is a showcase only. Casper handles sensitive financial data, so source code and live deployment are not publicly accessible.
 
 ---
 
+## 🚀 Features
+
+### 🔍 Market Momentum & Volatility Tracking
+- Detects live shifts in stock momentum.
+- Analyzes directional trends and volatility across equities and indices.
+
+### 📊 Performance Insights & Breakout Detection
+- Flags companies with strong quarterly metrics or technical breakouts.
+- Uses historical baselines to surface unusual performance.
+
+### 📈 Stock Diagnostics & Attribution
+- Breaks down stock movement into technical and fundamental drivers.
+- Highlights key attributes behind performance trends.
+
+### 📰 Real-Time News & Event Monitoring
+- Tracks corporate news, earnings, and regulatory filings.
+- Connects market moves to relevant headlines and events.
+
+---
 ## 🛠️ **Tech Stack**
 
 - **Backend:** Python, FastAPI
