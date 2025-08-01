@@ -17,7 +17,7 @@
 - **Backend:** Python, FastAPI
 - **Frontend:** React.js
 - **Database:** PostgreSQL
-- **Hosting:** AWS EC2, Docker
+- **Hosting:** Hostinger KVM 2, Docker
 
 ---
 
@@ -33,13 +33,6 @@
 <img width="1883" height="984" alt="Screenshot 2025-08-01 at 9 49 19 PM" src="https://github.com/user-attachments/assets/7de33a64-60a1-4caa-80db-a024fdbacddf" />
 <img width="1884" height="989" alt="Screenshot 2025-08-01 at 9 49 27 PM" src="https://github.com/user-attachments/assets/077b5c11-dbe5-4581-9ac4-1f635421e574" />
 
-
----
-
-## ✅ **Status**
-
-- 🔒 Confidential — Code cannot be made public due to sensitive data
-- 📌 Future work: Adding more predictive analytics.
 
 ---
 
